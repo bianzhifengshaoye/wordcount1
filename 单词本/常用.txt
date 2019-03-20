@@ -1,0 +1,43 @@
+property 适当的，完全的
+cluster 群，簇
+master 控制，主机
+region 地区，局部（regional）局部的
+genetically 天生地，从遗传学角度
+intuitive 直觉的
+cognitive 认知的
+trust   信任
+instead 转折
+tricky 狡猾的，棘手的
+concern 担心
+symbols 符号，象征，标志
+plugin 插件
+export 输出，出口
+generate 使形成，发生
+byo 自带
+editor 编者
+compiler 编译器
+indicator 指示器
+arrow 箭头
+margin 边缘，利润
+faculty 系，科
+studio 工作室
+decimal 小数
+numeric 数字
+smallint 短整形
+schema 模式
+reference 参照
+public 关键字，公共的，共有的
+extract 提取ing拔出的n汁，摘录
+defer使推迟，使延期
+enterprise,企业，事业，进取心
+explore 探索
+sign up for注册
+review 回顾，检查
+granular 颗粒状
+flexible 灵活的
+verified 已证实的，已查清的
+deploy 配置
+customize 定做
+integrate 一体化，集成体 
+repository 仓库
+authentication证明，证实

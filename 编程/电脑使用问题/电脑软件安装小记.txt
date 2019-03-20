@@ -1,0 +1,13 @@
+1 TeamViewer实现远程控制
+2 Adobe Photoshop CC(ps)实现图像处理，主要处理以像素所构成的数字图像。
+3 中国知网。查看论文
+4 githab是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管
+5 JDK是java Develpmet kit简称，是开发java程序的开发环境。（JDK安装环境变量的配置 ）
+6 如果你真想做黑客，先从基础学起，英语是必需的，还要会两种以上的汇编语言。要学会解密，爆破，进攻，防守，还要能做出自己需要的软件，就可以称得上是黑客了，如果你可以在网上不留痕迹的把某某某入侵美国白宫数据库的话，恭喜你，你已经算是超级黑客了，嘿嘿，不过这点好像不太可能。
+7 甲壳虫技术论坛 ，是一个提供海量游戏辅助和互联网教程安全软件以及网络营销教程的网站,为广大互联网技术爱好者提供最新技术文章、软件、教程等教程资源的网站
+8 write-bug 技术共享平台
+9notepad++编译器 （安装插件，设置护眼色85 123 205）
+10 Cavaj java Decompiler java程序反编译器 下载地址：http://cavaj-java-decompiler.en.softonic.com
+11MinGW MinGW(c语言编译器）是Minimalist GNUfor Windows的缩写。它是一个可自由使用和自由发布的Windows特定头文件和使用GNU工具集导入库的集合，允许你在GNU/Linux和Windows平台生成本地的Windows程序而不需要第三方C运行时（C Runtime）库。
+12 markdownpad (blog编辑器)是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，它们能让Markdown转换成更多的格式，
+13mysql下载和安装（https://jingyan.baidu.com/article/fd8044fa10550d5031137adf.html），以及navicat for mysql的使用。
