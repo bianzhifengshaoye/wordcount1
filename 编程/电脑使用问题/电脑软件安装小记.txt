@@ -10,4 +10,5 @@
 10 Cavaj java Decompiler java程序反编译器 下载地址：http://cavaj-java-decompiler.en.softonic.com
 11MinGW MinGW(c语言编译器）是Minimalist GNUfor Windows的缩写。它是一个可自由使用和自由发布的Windows特定头文件和使用GNU工具集导入库的集合，允许你在GNU/Linux和Windows平台生成本地的Windows程序而不需要第三方C运行时（C Runtime）库。
 12 markdownpad (blog编辑器)是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，它们能让Markdown转换成更多的格式，
+markdown (语法及使用教程）
 13mysql下载和安装（https://jingyan.baidu.com/article/fd8044fa10550d5031137adf.html），以及navicat for mysql的使用。
